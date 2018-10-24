@@ -1,4 +1,5 @@
-# Linkedin_Scrapper
+# Linkedin_Scrapper 
+Technology used : Python BeautifulSoup, Selinium, Pnadas, ElasticSearch
 
 The Project will help you to extract email address from your connections
 
